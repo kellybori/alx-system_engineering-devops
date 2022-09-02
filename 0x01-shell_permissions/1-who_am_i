@@ -1,2 +1,2 @@
-#!/bin/bash hir
+#!/bin/bash
 id -u -n
