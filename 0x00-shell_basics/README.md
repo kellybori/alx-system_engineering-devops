@@ -1,1 +1,1 @@
-Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
+18. Life is a series of commas, not periods
